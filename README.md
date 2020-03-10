@@ -8,7 +8,7 @@
 
 [X] Curso Java Completo - Aula 03: Executando o processo de compilação manualmente	
 
-[ ] Curso Java Completo - Aula 04: Download do ambiente de desenvolvimento
+[X] Curso Java Completo - Aula 04: Download do ambiente de desenvolvimento
 
 [ ] Curso Java Completo - Aula 05: Tipos primitivos, convenções de código e comentários	
 
