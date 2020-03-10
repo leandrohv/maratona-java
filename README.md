@@ -10,7 +10,7 @@
 
 [X] Curso Java Completo - Aula 04: Download do ambiente de desenvolvimento
 
-[ ] Curso Java Completo - Aula 05: Tipos primitivos, convenções de código e comentários	
+[X] Curso Java Completo - Aula 05: Tipos primitivos, convenções de código e comentários	
 
 [ ] Curso Java Completo - Aula 06: Continuação tipos primitivos, exercício e operadores	
 
