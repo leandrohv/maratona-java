@@ -8,6 +8,7 @@ public class Operadores {
         System.out.println("A subtração é " + (num1 - num2));
         System.out.println("A multiplicação é " + (num1 * num2));
         System.out.println("A divisão é " + (num1 / num2));
+        System.out.println("O resto da divisão é " + (soma % 2));
         System.out.println("O valor da soma é " + soma);
     }
 }

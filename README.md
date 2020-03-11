@@ -14,7 +14,7 @@
 
 [X] Curso Java Completo - Aula 06: Continuação tipos primitivos, exercício e operadores	
 
-[ ] Curso Java Completo - Aula 07: Operador resto e operadores de comparação	
+[X] Curso Java Completo - Aula 07: Operador resto e operadores de comparação	
 
 [ ] Curso Java Completo - Aula 08: Operadores Lógicos
 
