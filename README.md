@@ -12,7 +12,7 @@
 
 [X] Curso Java Completo - Aula 05: Tipos primitivos, convenções de código e comentários	
 
-[ ] Curso Java Completo - Aula 06: Continuação tipos primitivos, exercício e operadores	
+[X] Curso Java Completo - Aula 06: Continuação tipos primitivos, exercício e operadores	
 
 [ ] Curso Java Completo - Aula 07: Operador resto e operadores de comparação	
 

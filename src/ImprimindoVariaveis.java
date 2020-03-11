@@ -1,23 +1,17 @@
 public class ImprimindoVariaveis {
-    // Comentário de uma única linha - você pode escrever qualquer coisa
-
-    /*
-        Comentário
-            de
-                bloco
-    */
-
-    /***
-     * Esse é o comentário oficial da linguagem de programação Java
-     * @param args parametro de entrada do método main
-     */
     public static void main(String[] args) {
-        // Java possui variáveis do tipo primitivo e references
-        // Tipos Primitivos
-        // int, double, float, boolean, char, type, short, long
-
-        int idadeDosPaisParaCadastro = 10;
-
-        System.out.println("Idade " + idadeDosPaisParaCadastro);
+        int idade = 10;
+        double salarioDouble = 3000;
+        float salarioFloat = 3000;
+        byte idadeByte = 12;
+        short idadeShort = 32767;
+        boolean verdadeiro = true;
+        boolean falso = false;
+        long numeroGrande = 1000L;
+        char caractereUnicode = '\u0041'; // imprimindo unicode,
+        char caractere = 'A'; // armazena até 2 bytes, números adicionados em campo char,
+                              // será traduzido para a tabela unicode.
+        String nome = "Leandro"; // Caractere reference String
+        System.out.println(nome + " tem " + idade + " anos de idade.");
     }
 }
