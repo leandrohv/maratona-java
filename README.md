@@ -16,7 +16,7 @@
 
 [X] Curso Java Completo - Aula 07: Operador resto e operadores de comparação	
 
-[ ] Curso Java Completo - Aula 08: Operadores Lógicos
+[X] Curso Java Completo - Aula 08: Operadores Lógicos
 
 [ ] Curso Java Completo - Aula 09: Operadores de Atribuição
 
