@@ -18,7 +18,7 @@
 
 [X] Curso Java Completo - Aula 08: Operadores Lógicos
 
-[ ] Curso Java Completo - Aula 09: Operadores de Atribuição
+[X] Curso Java Completo - Aula 09: Operadores de Atribuição
 
 [ ] Curso Java Completo - Aula 10: Controle de fluxo if, else if e else	
 
