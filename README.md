@@ -20,7 +20,7 @@
 
 [X] Curso Java Completo - Aula 09: Operadores de Atribuição
 
-[ ] Curso Java Completo - Aula 10: Controle de fluxo if, else if e else	
+[X] Curso Java Completo - Aula 10: Controle de fluxo if, else if e else	
 
 [ ] Curso Java Completo - Aula 11: Controle de fluxo: Tabela verdade e mais.	
 
